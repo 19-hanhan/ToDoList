@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="ToDoList-1.1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ToDoList_1_1_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ToDoList-1.1.jar">
+        <element id="module-output" name="ToDoList-1.1" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="mysql-connector-java-8.0.24" />
+      </element>
+    </root>
+  </artifact>
+</component>
